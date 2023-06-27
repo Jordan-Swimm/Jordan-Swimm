@@ -5,7 +5,7 @@ file_version: 1.1.2
 app_version: 1.11.8
 ---
 
-This code snippet is a personal message written in a GitHub profile's README.md file. It includes a sentence about swimming being the best, especially with arm floaties, followed by a greeting to potential readers and a list of ideas to get started with collaboration or learning more about the profile owner.
+This is a code snippet in a `GitHub`<swm-token data-swm-token=":README.md:5:44:44:`**Jordan-Swimm/Jordan-Swimm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.`"/> profile's `📄 README.md` file. It mentions swimming with arm floaties and provides a greeting to potential readers. It also lists ideas for collaboration or learning more about the profile owner.
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 README.md
 ```markdown
