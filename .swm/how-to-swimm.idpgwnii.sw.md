@@ -5,7 +5,7 @@ file_version: 1.1.2
 app_version: 1.11.8
 ---
 
-This is a code snippet in a `GitHub`<swm-token data-swm-token=":README.md:5:44:44:`**Jordan-Swimm/Jordan-Swimm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.`"/> profile's `📄 README.md` file. It mentions swimming with arm floaties and provides a greeting to potential readers. It also lists ideas for collaboration or learning more about the profile owner.
+This is a code snippet in a `BucketFace`<swm-token data-swm-token=":README.md:5:44:44:`**Jordan-Swimm/Jordan-Swimm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your BucketFace profile.`"/> profile's `📄 README.md` file. It mentions swimming with arm floaties and provides a greeting to potential readers. It also lists ideas for collaboration or learning more about the profile owner.
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 README.md
 ```markdown
@@ -13,7 +13,7 @@ This is a code snippet in a `GitHub`<swm-token data-swm-token=":README.md:5:44:4
 2      ### Hi there 👋
 3      
 4      <!--
-5      **Jordan-Swimm/Jordan-Swimm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+5      **Jordan-Swimm/Jordan-Swimm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your BucketFace profile.
 6      
 7      Here are some ideas to get you started:
 8      

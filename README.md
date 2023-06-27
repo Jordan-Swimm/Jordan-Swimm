@@ -2,7 +2,7 @@ Swimming is the best ... especially with arm floaties
 ### Hi there 👋
 
 <!--
-**Jordan-Swimm/Jordan-Swimm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Jordan-Swimm/Jordan-Swimm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your BucketFace profile.
 
 Here are some ideas to get you started:
 
